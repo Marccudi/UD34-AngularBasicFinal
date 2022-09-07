@@ -1,0 +1,35 @@
+.container{
+  width: 30%;
+  background-color: #4db7ad;
+  border: solid black 2px;
+}
+.pantalla{
+  text-align: right;
+  width: 100%;
+}
+.btn{
+  width: 100%;
+}
+.boton{
+  padding: 0;
+}
+
+input{
+  border: none;
+  font-size: larger;
+}
+.neg{
+  background-color: #8d6e63;
+  border:none;
+  height: 54px;
+}
+.neg:hover{
+  background-color: #604a43;
+}
+.verd{
+  background-color: #4db7ad;
+  border:none;
+}
+.verd:hover{
+  background-color: #378078;
+}
